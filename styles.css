@@ -48,7 +48,7 @@ h1{
 	font-size: 6rem;
 }
 
-button{
+.btn{
 	border-radius: 10px;
 	padding: 5px 15px;
 	text-transform: uppercase;
@@ -58,7 +58,7 @@ button{
 }
 
 
-button:hover{
+.btn:hover{
 	background-color: hsl(360, 1%, 1%);
 	color: white;
 	transition:0.5s;
