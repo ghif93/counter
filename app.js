@@ -39,7 +39,7 @@ function counterReset(){
 
 function changeColor(num){
 	if (num===0){
-		counterText.style.color="black";
+		counterText.style.color="hsl(209, 61%, 16%)";
 	}else if(num>0){
 		counterText.style.color="green";
 	}else{
